@@ -3,7 +3,7 @@
             <header>
                 <div class="image-text">
                     <span class="image">
-                        <img src="http://127.0.0.1/progetti/SitoWebParrocchia/images/logo.png" alt="">
+                        <img src="http://127.0.0.1/progetti/ParrocchiaBovolone/images/logo.png" alt="">
                     </span>
                     <div class="text logo-text">
                         <span class="profession">Parrocchia</span>
@@ -11,13 +11,12 @@
                     </div>
                 </div>
                 <i class="toggle fa-solid fa-angle-right"></i>
-                
             </header>
             <div class="menu-bar">
                 <div class="menu">
                     <ul class="menu-links">
                         <li class="nav-link">
-                            <a href="http://127.0.0.1/progetti/SitoWebParrocchia/">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone">
                                 <i class="icon fa-solid fa-house"></i>
                                 <span class="text nav-text">Home</span>
                             </a>
@@ -27,37 +26,37 @@
                             <input type="text" placeholder="Cerca">
                         </li>
                         <li class="nav-link">
-                            <a href="http://127.0.0.1/progetti/SitoWebParrocchia/notizie/notizie.php">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone/php/notizie/notizie.php">
                                 <i class="icon fa-solid fa-newspaper"></i>
                                 <span class="text nav-text">Notizie</span>
                             </a>
                         </li>
                         <li class="nav-link">
-                            <a href="http://127.0.0.1/progetti/SitoWebParrocchia/attivita/attivita.php">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone/php/attivita/attivita.php">
                                 <i class="icon fa-solid fa-signal"></i>
                                 <span class="text nav-text">Attività</span>
                             </a>
                         </li>
                         <li class="nav-link">
-                            <a href="#">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone/php/iscrizioni/iscrizioni.php">
                             <i class="icon fa-solid fa-envelope-open-text"></i>
                                 <span class="text nav-text">Iscrizioni</span>
                             </a>
                         </li>
                         <li class="nav-link">
-                            <a href="#">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone/php/streaming/streaming.php">
                             <i class="icon fa-solid fa-video"></i>
                                 <span class="text nav-text">Streaming</span>
                             </a>
                         </li>
                         <li class="nav-link">
-                            <a href="#">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone/php/orari/orari.php">
                                 <i class="icon fa-solid fa-clock"></i>
                                 <span class="text nav-text">Orari</span>
                             </a>
                         </li>
                         <li class="nav-link">
-                            <a href="#">
+                            <a href="http://127.0.0.1/progetti/ParrocchiaBovolone/php/contatti/contatti.php">
                                 <i class="icon fa-solid fa-phone"></i>
                                 <span class="text nav-text">Contatti</span>
                             </a>
